@@ -243,9 +243,3 @@ Expected: `HTTP/1.1 200 OK` (or redirect to login page)
 ---
 
 ✅ After following these steps, **Zammad should be fully installed and accessible via your domain over HTTPS**.
-
----
-
-If you want, I can also make a **diagram showing the full architecture**: Nginx → Puma → Rails → PostgreSQL, with ports and troubleshooting points. That makes the document super clear for team or future reference.
-
-Do you want me to make that diagram too?
